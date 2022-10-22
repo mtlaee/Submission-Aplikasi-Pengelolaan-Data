@@ -9,14 +9,14 @@ Repository ini merupakan hasil dari pengerjaan submission terakhir dari kelas Be
 
 ### Features
 
-**Dapat Menambahkan Data Buku baru.
+* Dapat Menambahkan Data Buku baru.
 
-**Memiliki Dua Rak Buku. Yaitu Rak Belum selesai dibaca dan Rak Selesai dibaca.
+* Memiliki Dua Rak Buku. Yaitu Rak Belum selesai dibaca dan Rak Selesai dibaca.
 
-**Dapat Memindahkan Buku antar Rak.
+* Dapat Memindahkan Buku antar Rak.
 
-**Dapat Menghapus Data Buku.
+* Dapat Menghapus Data Buku.
 
-**Menggunakan localStorage dalam Menyimpan Data Buku.
+* Menggunakan localStorage dalam Menyimpan Data Buku.
 
 
